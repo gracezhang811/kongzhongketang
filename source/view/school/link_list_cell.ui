@@ -1,0 +1,30 @@
+{
+	"RootView":{
+		"bgColor":"FFFFFFFF",
+		"x":"0",
+		"width":"750",
+		"y":"0",
+		"id":"lay_period",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"x":"30",
+				"width":"690",
+				"fontSize":"32",
+				"id":"lab_period_name",
+				"type":"do_Label",
+				"fontColor":"434343FF",
+				"height":"87"
+			},
+			{
+				"bgColor":"FBFBFBFF",
+				"width":"750",
+				"y":"87",
+				"id":"do_ALayout_1",
+				"type":"do_ALayout",
+				"height":"2"
+			}
+		],
+		"height":"89"
+	}
+}

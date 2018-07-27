@@ -1,0 +1,31 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"244",
+		"y":"0",
+		"id":"lay_sort_cell",
+		"bgImage":"source://image/course_sort_bk1.png",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"x":"74",
+				"width":"96",
+				"y":"46",
+				"id":"img_sort",
+				"type":"do_ImageView",
+				"enabled":"true",
+				"height":"96"
+			},
+			{
+				"textAlign":"center",
+				"width":"244",
+				"y":"172",
+				"fontSize":"24",
+				"id":"lab_sortname",
+				"type":"do_Label",
+				"height":"28"
+			}
+		],
+		"height":"244"
+	}
+}
